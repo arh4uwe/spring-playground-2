@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: peepee-poopoo-2
+server:
+  port: 5963
